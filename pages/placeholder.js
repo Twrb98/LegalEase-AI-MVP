@@ -1,0 +1,1 @@
+// pages content for LegalEase AI
